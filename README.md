@@ -2,7 +2,7 @@
 
 I developed a Basic calculator Applicaton using HTML, CSS and JavaScript , i am thrilled to show a fully functional calculator  applicaton!
 
-#Features Include:
+# Features Include:
 
 Arthmethic operations: addition, subtraction , multiplication,and division.
 User-friendly desgin: A clean and responcive interface to perform.
